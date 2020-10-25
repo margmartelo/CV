@@ -1,7 +1,9 @@
-## Margarida Martelo
+## Margarida Martelo.                  
+:warning: Work in progress
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
+:portugal:
 
 
 ## Projects
@@ -73,7 +75,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Bachelor of Science (BSc), Psychological Sciences
 - Considered comparable to British Bachelor (Honours) degree standard (by NARIC)
 
-#### Instituto Cervantes
+#### Instituto Cervantes :es:
 
 - “Diploma in Spanish as a Foreign Language” - Level C2 (Proficiency Level)
 
